@@ -1,0 +1,30 @@
+_repo: Tongues-of-the-Moon_73304
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farmer, Philip José
+    alias: Farmer, Philip Jose
+    birthdate: 1918
+    deathdate: 2009
+    gutenberg_agent_id: '33989'
+    url: http://www.gutenberg.org/2009/agents/33989
+    wikipedia: https://en.wikipedia.org/wiki/Philip_Jos%C3%A9_Farmer
+description: ''
+gutenberg_issued: '2024-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73304'
+language: en
+pgterms:marc905: 20240225142207farmer
+pgterms:marc906: '1961'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1961.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tongues of the Moon
+url: http://www.gutenberg.org/ebooks/73304
