@@ -1,5 +1,8 @@
 _repo: Tongues-of-the-Moon_73304
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73304-h/images/cover.jpg
 creator:
   author:
     agent_name: Farmer, Philip José
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33989
     wikipedia: https://en.wikipedia.org/wiki/Philip_Jos%C3%A9_Farmer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73304#Tongues-of-the-Moon
 gutenberg_issued: '2024-03-31'
 gutenberg_type: Text
 identifiers:
